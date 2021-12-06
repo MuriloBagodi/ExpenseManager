@@ -29,6 +29,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 10px
 }
 
 .amount{
@@ -47,4 +49,12 @@
 .amount p{
   padding: 0;
   margin: 0;
+}
+
+.dateTime{
+  background-color: #fafafa;
+  padding-inline: 1rem;
+  padding-block-start: 2rem;
+  border-radius: 10px;
+  padding-block: 0.5rem
 }

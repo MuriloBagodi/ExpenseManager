@@ -20,6 +20,10 @@ function ExpenseItems(props) {
                     {postDetail.amount}
                   </p>
                 </div>
+                
+                <div className="dateTime">
+                  {postDetail.date}
+                </div>
               </div>
             </Vanilla>
           );
