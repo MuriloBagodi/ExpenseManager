@@ -24,16 +24,16 @@
   backdrop-filter: blur(5px);
 }
 
-.popUpContent{
+.popUpContent {
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px
+  gap: 10px;
 }
 
-.amount{
+.amount {
   width: 80%;
   display: flex;
   justify-content: center;
@@ -46,15 +46,23 @@
   border-bottom-left-radius: 5px;
 }
 
-.amount p{
+.amount p {
   padding: 0;
   margin: 0;
 }
 
-.dateTime{
+.dateTime {
   background-color: #fafafa;
   padding-inline: 1rem;
   padding-block-start: 2rem;
   border-radius: 10px;
-  padding-block: 0.5rem
+  padding-block: 0.5rem;
+  box-shadow: -4px 8px 61px -13px rgba(176, 176, 176, 0.68);
+  -webkit-box-shadow: -4px 8px 61px -13px rgba(176, 176, 176, 0.68);
+  -moz-box-shadow: -4px 8px 61px -13px rgba(176, 176, 176, 0.68);
+}
+
+div h2 {
+  text-align: center;
+  color: #fafafa;
 }

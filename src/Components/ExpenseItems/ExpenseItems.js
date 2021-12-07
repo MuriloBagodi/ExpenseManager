@@ -8,6 +8,7 @@ function ExpenseItems(props) {
 
   return (
     <div>
+      <h2>Consuming a JSON DATA</h2>
       <div className="cards__container">
         {PostsData.map((postDetail, index) => {
           return (
