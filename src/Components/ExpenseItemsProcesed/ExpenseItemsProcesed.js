@@ -1,4 +1,3 @@
-import React from "react";
 import "../ExpenseItemsProcesed/ExpenseItemsProcesed.css";
 import ExpenseItemsPrps from "../ExpenseItemsPrps/ExpenseItemsPrps";
 

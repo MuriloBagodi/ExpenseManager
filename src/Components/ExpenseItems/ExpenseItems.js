@@ -1,4 +1,3 @@
-import React from "react";
 import "../ExpenseItems/ExpenseItems.css";
 import PostsData from "../../data/post.json";
 import Vanilla from "react-vanilla-tilt";

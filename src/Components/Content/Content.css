@@ -97,3 +97,15 @@ p:nth-child(2) {
   flex-grow: 0;
   margin: 25px 0px;
 }
+
+
+@keyframes show {
+  0% { transform: translate(-120vw);}
+  80% { transform: translate(-5px);}
+  100% { transform: translate(0vw);}
+}
+
+.show {
+  animation: show 1.5s forwards ease-in-out;
+  
+}

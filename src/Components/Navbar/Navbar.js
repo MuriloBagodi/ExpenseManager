@@ -1,4 +1,3 @@
-import React from "react";
 import "../Navbar/Navbar.css";
 
 import Logo from "../../img/BrandMSBagodiWhite.png";

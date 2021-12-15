@@ -1,4 +1,3 @@
-import React from "react";
 import "../ExpenseItemsPrps/ExpenseItemsPrps.css";
 import Vanilla from "react-vanilla-tilt";
 
